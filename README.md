@@ -256,8 +256,9 @@ Content-Type: application/json
 ## Workflow Video
 [Watch the video](https://youtu.be/SfYjKJzl1I8)
 
+
 ## ❤️ Made with Love
 
-Built with passion for to automate the process.
+Built with passion to automate the process.
 
 If you find this project useful, please consider giving it a star ⭐
